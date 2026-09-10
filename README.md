@@ -4,8 +4,7 @@ Interactive Power BI dashboard for analyzing thumbnail performance and key metri
 
 ## Tools
 - Power BI
-- DAX
-- Power Query
+- Excel
 
 ## Dashboard Preview
 
